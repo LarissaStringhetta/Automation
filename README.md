@@ -29,23 +29,23 @@ C:\Users\Windows11\Projeto\Automation
 │
 └───report.html     # Relatório HTML gerado após a execução dos testes
 
-1.Como Executar
+## 1.Como Executar
 Clone este repositório em sua máquina local:
 
 bash
 git clone https://github.com/LarissaStringhetta/Projeto.git
 
-2.Navegue até o diretório do projeto:
+## 2.Navegue até o diretório do projeto:
 
 bash
 cd Projeto/Automation
 
-3.Instale as dependências do projeto:
+## 3.Instale as dependências do projeto:
 
 bash
 pip install -r requirements.txt
 
-4.Execute os testes:
+## 4.Execute os testes:
 
 bash
 pytest tests/
