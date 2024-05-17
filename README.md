@@ -1,7 +1,8 @@
-##Projeto de Automação de Teste de Login
+# Projeto de Automação de Teste de Login
+
 Este projeto consiste em testes automatizados para a funcionalidade de login de um sistema utilizando Selenium e Pytest em Python.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 C:\Users\Windows11\Projeto\Automation
 │   README.md       # Este arquivo
