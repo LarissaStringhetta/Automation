@@ -5,6 +5,7 @@ Este projeto consiste em testes automatizados para a funcionalidade de login de 
 ## Estrutura do Projeto
 
 C:\Users\Windows11\Projeto\Automation
+
 │   README.md       # Este arquivo
 │   int.py          # Script principal de automação
 │   pyvenv.cfg      # Configuração do ambiente virtual Python
