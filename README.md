@@ -35,7 +35,7 @@ C:\Users\Windows11\Projeto\Automation
 Clone este repositório em sua máquina local:
 
 bash
-git clone https://github.com/LarissaStringhetta/Projeto.git
+clone https://github.com/LarissaStringhetta/Automation.git
 
 ## 2.Navegue até o diretório do projeto:
 
